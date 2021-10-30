@@ -1,0 +1,11 @@
+
+Hello, Sergei.
+I have 3 solutions for this exercise:
+1. By the cycle "for" with 100 iterations
+2. By the cycle "for" with 10 iterations with the enclosed cycle "for" with 10 iterations 
+(array 10x10 for example) (but it has 100 iterations summary in fact)
+3. This solution.
+
+To my mind, this solution is the most effective in this case, because it has 7 iterations vs 100 in 
+other solutions, but its not universal and it will work successfully only for increasing sequence of 
+numbers 1 to 100.
